@@ -1,0 +1,11 @@
+## Last Week's Accomplishments
+
+>Last week accomplishments included reading the documentation on pytest and getting familiar with how it works
+
+## This Week's Plan
+
+> My plan for this week is to continue research on pytest and begin making some small test files to run pytest. The ultimate goal is to make a file to make sure that all of our data was parsed correctly.
+
+## Anything Blocking?
+
+>I have had problems getting my docker image set up I have been getting an error that says i do not have permission to access the image. i have spent a couple of hours trying to figure it out but to no avail. 
